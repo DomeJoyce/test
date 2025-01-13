@@ -30,3 +30,5 @@ After you copy the repository using
 move into the genome folder and download the Human Genome from ncbi website, following the instruction present in the "prepare_genomes.txt"
 
 This tool was developed by Domenico Giosa (dgiosa@unime.it) at the University of Messina, in collaboration with Sequentia Biotech SL (https://www.sequentiabiotech.com/).
+
+![GPL Licence](https://github.com/DomeJoyce/HBVIF/Licence)
